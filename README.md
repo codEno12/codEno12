@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a utility app for businessmen, specifically<br>targeting the Japanese market, but flexible enough to be used on <br>global scale. <br><br>I'm always keeping an open mind for new opportunities: collaborating with<br>other devs, job openings, Hackathons, and many more. 🧠<br><br><br>🌱 I’m currently learning JavaScript as my main tech stack. Touching React.js<br>and MongoDB, along with Node.js. <br><br> Ask me about 💬 Web development or anything you might be interested in!<br><br>⚡ Fun Fact ⚡ <br>I speak 5 languages: Japanese, English, German, Tagalog, and JavaScript.
+🔭 I'm currently working on a utility app for businessmen, specifically<br>targeting the Japanese market, but flexible enough to be used on <br>global scale. <br><br>I'm always keeping an open mind for new opportunities: collaborating with<br>other devs, job openings, Hackathons, and many more. 🧠<br><br><br>🌱 I’m currently learning JavaScript as my main language. Touching React.js<br>and MongoDB, along with Node.js. <br><br> Ask me about 💬 Web development or anything you might be interested in!<br><br>⚡ Fun Fact ⚡ <br>I speak 5 languages: Japanese, English, German, Tagalog, and JavaScript.
 
 
 ## 🌐 Socials:
